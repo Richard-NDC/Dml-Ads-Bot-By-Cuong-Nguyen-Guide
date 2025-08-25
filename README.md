@@ -6,7 +6,7 @@ Xin chào các bạn, mình là Cường Nguyễn, là người tạo ra tool t�
 
 # Setup
 
-**Chức năng cày Gems**
+## **Chức năng cày Gems**
 
 Trước khi có thể sử dụng tool, các bạn hãy mở game lên và tìm bong bóng như trong hình
 
