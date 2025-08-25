@@ -6,6 +6,8 @@ Xin chào các bạn, mình là Cường Nguyễn, là người tạo ra tool t�
 
 # Setup
 
+**Chức năng cày Gems**
+
 Trước khi có thể sử dụng tool, các bạn hãy mở game lên và tìm bong bóng như trong hình
 
 ![](https://raw.githubusercontent.com/Richard-NDC/Dml-Ads-Bot-By-Cuong-Nguyen-Guide/refs/heads/main/GemsIcon.png)
@@ -13,3 +15,4 @@ Trước khi có thể sử dụng tool, các bạn hãy mở game lên và tìm
 Các bạn chú ý hãy chụp như mẫu phía dưới (Không chụp cả phần bong bóng nếu tài khoản của các bạn có bong bóng trong suốt phía sau) và thay thế vào file Gems.png (phía bên trong thư mục image ở trong thư mục của phần mềm)
 
 ![](https://raw.githubusercontent.com/Richard-NDC/Dml-Ads-Bot-By-Cuong-Nguyen-Guide/refs/heads/main/GemsExample.png)
+
