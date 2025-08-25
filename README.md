@@ -10,6 +10,6 @@ Trước khi có thể sử dụng tool, các bạn hãy mở game lên và tìm
 
 ![](https://raw.githubusercontent.com/Richard-NDC/Dml-Ads-Bot-By-Cuong-Nguyen-Guide/refs/heads/main/GemsIcon.png)
 
-Các bạn chú ý hãy chụp như mẫu phía dưới (Không chụp cả phần bong bóng nếu tài khoản của các bạn có bong bóng trong suốt phía sau)
+Các bạn chú ý hãy chụp như mẫu phía dưới (Không chụp cả phần bong bóng nếu tài khoản của các bạn có bong bóng trong suốt phía sau) và thay thế vào file Gems.png (phía bên trong thư mục image ở trong thư mục của phần mềm)
 
 ![](https://raw.githubusercontent.com/Richard-NDC/Dml-Ads-Bot-By-Cuong-Nguyen-Guide/refs/heads/main/GemsExample.png)
